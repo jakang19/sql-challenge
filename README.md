@@ -11,4 +11,4 @@ This repository contains:
 - `table-schema.sql` file of the table schema
 - `queries.sql` file of the data analysis
 - `employee_salary_analysis.ipynb` file analyzing legitamacy of provided data
-  --Result: April Fools!
+  -- Result: April Fools!
