@@ -9,4 +9,6 @@ This directory contains .sql files containing data analysis and modeling of the 
 This repository contains:
 - `employee-ERD.PNG` and `ERD.txt` files displaying the employee information ERD.
 - `table-schema.sql` file of the table schema
-- `queries.sql` file of the data analysis.
+- `queries.sql` file of the data analysis
+- `employee_salary_analysis.ipynb` file analyzing legitamacy of provided data
+  --Result: April Fools!
